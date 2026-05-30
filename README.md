@@ -1,5 +1,10 @@
 # Starts Gallery - Android Project
 
+
+https://github.com/user-attachments/assets/48415393-a5bf-4c17-b03e-463e36c51ea0
+
+
+
 Starts Gallery is a revitalized Android application designed to showcase a collection of characters. The app provides a clean, modern interface for browsing, searching, and managing character ratings.
 
 ## 🚀 Features
