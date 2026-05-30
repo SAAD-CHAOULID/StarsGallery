@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Starts Gallery</string>
+    <string name="splash_subtitle">Discover your favorite characters</string>
+    <string name="share_message">✨ Discover the Starts Gallery! ✨\nThe app that lists your favorite characters!\nDownload it now!</string>
+    <string name="share_title">Share Starts Gallery via...</string>
+</resources>
