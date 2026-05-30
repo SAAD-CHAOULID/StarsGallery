@@ -42,10 +42,3 @@ Starts Gallery is a revitalized Android application designed to showcase a colle
 | `getFilter()` | Handles the logic for the dynamic search functionality. |
 | `onCreate()` | Initializes the UI components and sets up the Toolbar. |
 
-## 📐 Project Revitalization Highlights
-
-This project has undergone a complete refactoring to:
-- Standardize variable naming (English-focused, professional).
-- Decouple data initialization from business logic.
-- Modernize layout constraints and improve visual spacing.
-- Fix legacy typos and improve overall code readability.
